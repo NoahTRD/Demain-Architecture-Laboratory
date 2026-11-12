@@ -9,6 +9,9 @@ Page de test des interfaces
 | --- | --- | --- |
 | Rieglisation v1 — Atlas des valeurs | [Code de Rieglisation](https://github.com/NoahTRD/Demain-Architecture-Laboratory/blob/main/Rieglisation%20v1.html) | [Ouvrir Rieglisation v1](https://noahtrd.github.io/Demain-Architecture-Laboratory/Rieglisation%20v1.html) |
 | PNR 2024 — Parricus Natura Regionalis | [Code de PNR 2024](https://github.com/NoahTRD/Demain-Architecture-Laboratory/blob/main/pnr-2024.html) | [Ouvrir PNR 2024](https://noahtrd.github.io/Demain-Architecture-Laboratory/pnr-2024.html) |
+| PNR 2024 — version 2 | [Code de PNR 2024 — version 2](https://github.com/NoahTRD/Demain-Architecture-Laboratory/blob/main/pnr-2024-2.html) | [Ouvrir PNR 2024 — version 2](https://noahtrd.github.io/Demain-Architecture-Laboratory/pnr-2024-2.html) |
+| Rose de Bruno | [Code de Rose de Bruno](https://github.com/NoahTRD/Demain-Architecture-Laboratory/blob/main/rose-de-bruno.html) | [Ouvrir Rose de Bruno](https://noahtrd.github.io/Demain-Architecture-Laboratory/rose-de-bruno.html) |
+| Rose de Bruno — version 2 | [Code de Rose de Bruno — version 2](https://github.com/NoahTRD/Demain-Architecture-Laboratory/blob/main/rose-de-bruno-2.html) | [Ouvrir Rose de Bruno — version 2](https://noahtrd.github.io/Demain-Architecture-Laboratory/rose-de-bruno-2.html) |
 
 ### Ajouter un test
 
