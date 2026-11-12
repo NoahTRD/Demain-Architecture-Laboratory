@@ -1,3 +1,15 @@
 # Demain-Architecture-Laboratory
 
 Page de test des interfaces
+
+
+## Tests et prévisualisations
+
+| Test | Code sur GitHub | Prévisualisation |
+| --- | --- | --- |
+| Rieglisation v1 — Atlas des valeurs | [Code de Rieglisation](https://github.com/NoahTRD/Demain-Architecture-Laboratory/blob/main/Rieglisation%20v1.html) | [Ouvrir Rieglisation v1](https://noahtrd.github.io/Demain-Architecture-Laboratory/Rieglisation%20v1.html) |
+| PNR 2024 — Parricus Natura Regionalis | [Code de PNR 2024](https://github.com/NoahTRD/Demain-Architecture-Laboratory/blob/main/pnr-2024.html) | [Ouvrir PNR 2024](https://noahtrd.github.io/Demain-Architecture-Laboratory/pnr-2024.html) |
+
+### Ajouter un test
+
+Créez un fichier HTML portant un nom unique, puis ajoutez une ligne à ce tableau avec son code et son adresse GitHub Pages. Pour actualiser un test existant, modifiez son fichier sur la branche main en conservant son nom.
